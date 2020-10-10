@@ -1,0 +1,559 @@
+filename,loc,site,elev,species,order,temp_trt,stress,chamber_num,barcode,dryweight,control_corr_mr
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,1,83786,0.0007,0.002004593
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,2,83787,0.00063,0.007057211
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,3,83788,0.00136,0.008599281
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,4,83789,0.00075,0.007256581
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,5,83790,0.00116,-0.00211925
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,6,83791,0.00209,-0.005434984
+PHY.asec1312.PS129.MRT32A.xls,Ecuador,La Prostituta,high,Andesiops,E,5,ns,7,83792,0.0025,-0.004502535
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,2,83717,0.00061,0.003949287
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,3,83718,0.0007,0.002259218
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,5,83713,0.00073,0.005594853
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,6,83714,0.00067,0.002836469
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,7,83715,0.00043,0.001867011
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,12,83723,0.0011,0.008198032
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,14,83725,0.00091,0.015556958
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,15,83726,0.00097,0.008385516
+PHY.asec1310.PF12.MRT27A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,5,ns,16,83727,0.00025,0.003630819
+PHY.asec1305.PF7.MRT18A.xls,Ecuador,Guango,mid,Andesiops,E,5,ns,6,83180,0.00057,0.002306359
+PHY.asec1305.PF7.MRT18A.xls,Ecuador,Guango,mid,Andesiops,E,5,ns,7,83181,0.00089,0.006587557
+PHY.asec1305.PF7.MRT18A.xls,Ecuador,Guango,mid,Andesiops,E,5,ns,8,83182,0.00098,0.005506813
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,1,83793,0.0012,0.008177501
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,2,83794,0.00154,0.00784655
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,3,83795,0.00159,0.010177797
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,4,83796,0.0028,0.013527846
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,5,83797,0.00136,0.004030009
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,6,83798,0.00122,0.002094493
+PHY.asec1312.PS129.MRT33A.xls,Ecuador,La Prostituta,high,Andesiops,E,7.5,ns,8,83799,0.00233,0.02252502
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,1,83849,0.00049,0.010355016
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,2,83850,0.00119,0.015667479
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,3,83932,0.00123,0.007393946
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,4,83933,0.00112,0.00608654
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,5,83934,0.00076,0.015789362
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,6,83935,0.00081,0.016532313
+PHY.asec1315.AF2.MRT43A.xls,Ecuador,Antizana,high,Andesiops,E,7.5,ns,7,83936,0.00098,0.009937889
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,1,83321,0.00069,0.00379997
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,4,83324,0.00065,0.007117219
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,6,83326,0.00106,0.006397434
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,10,83329,0.00053,0.001200797
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,11,83330,0.00101,0.003885253
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,14,83332,0.00043,0.003157005
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,15,83333,0.00044,0.000778029
+PHY.asec1308.PF12.MRT23A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,7.5,ns,16,83334,0.00078,0.005505448
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,2,83137,0.00176,0.010382027
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,3,83138,0.00051,0.00487521
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,4,83139,0.00043,0.002905528
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,5,83140,0.001,0.010093226
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,7,83142,0.00059,0.004022764
+PHY.asec1303.PF7.MRT15A_rev.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,8,83143,0.00045,0.005267414
+PHY.asec1304.PF7.MRT15B.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,1,83144,0.00065,0.002956438
+PHY.asec1304.PF7.MRT15B.xls,Ecuador,Guango,mid,Andesiops,E,7.5,ns,6,83149,0.00069,0.005543788
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,1,83800,0.00128,0.00346396
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,2,83801,0.00081,0.003649696
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,3,83802,0.00126,0.00112193
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,4,83803,0.00052,0.002324524
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,5,83804,0.00178,0.002044982
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,7,83805,0.00127,0.011203319
+PHY.asec1312.PS129.MRT34A.xls,Ecuador,La Prostituta,high,Andesiops,E,10,ns,8,83806,0.00067,0.001307739
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,1,83835,0.00156,0.015264883
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,2,83836,0.00106,0.019783748
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,3,83837,0.0016,0.019908935
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,4,83838,0.00089,0.016340105
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,5,83839,0.00088,0.016960539
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,6,83840,0.00127,0.022917304
+PHY.asec1315.AF2.MRT40A_rev.xls,Ecuador,Antizana,high,Andesiops,E,10,ns,8,83841,0.00076,0.018148448
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,1,83728,0.00084,0.017128466
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,3,83730,0.0012,0.019458218
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,4,83731,0.00106,0.014382184
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,5,83732,0.00075,0.022208322
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,12,83739,0.0012,0.022558118
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,13,83740,0.00055,0.012159306
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,15,83741,0.00081,0.015431818
+PHY.asec1310.PF12.MRT28A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,10,ns,16,83742,0.00068,0.010403471
+PHY.asec1305.PF7.MRT19A.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,3,83184,0.00072,0.009436383
+PHY.asec1305.PF7.MRT19A.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,4,83185,0.00058,0.006043579
+PHY.asec1305.PF7.MRT19A.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,5,83186,0.00058,0.009781047
+PHY.asec1305.PF7.MRT19A.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,6,83187,0.00083,0.009232274
+PHY.asec1305.PF7.MRT19A.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,8,83189,0.00058,0.003640011
+PHY.asec1305.PF7.MRT19B.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,3,83273,0.00087,-0.002459725
+PHY.asec1305.PF7.MRT19B.xls,Ecuador,Guango,mid,Andesiops,E,10,ns,5,83274,0.00058,-0.001184252
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,2,83842,0.00087,0.023974677
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,3,83843,0.00103,0.025577497
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,4,83844,0.00076,0.018146237
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,5,83845,0.00081,0.015705487
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,6,83846,0.00081,0.015144707
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,7,83847,0.00052,0.014191007
+PHY.asec1315.AF2.MRT42A.xls,Ecuador,Antizana,high,Andesiops,E,12.5,ns,8,83848,0.00081,0.020805317
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,1,83335,0.0015,0.023231008
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,3,83337,0.00071,0.006102042
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,4,83338,0.00056,-0.005846853
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,7,83341,0.00095,0.015028238
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,8,83342,0.00017,0.004887326
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,9,83343,0.00075,0.00881199
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,13,83347,0.00065,0.007047936
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,14,83348,0.00077,0.000284055
+PHY.asec1308.PF12.MRT24A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,15,83349,0.00139,0.019712749
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,9,83692,0.00117,0.016257216
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,10,83693,0.00197,0.020299747
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,12,83694,0.00131,0.014297447
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,13,83695,0.00113,0.017716309
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,14,83696,0.0011,0.011871752
+PHY.asec1309.PS129.MRT25A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,15,83697,0.00173,0.018330506
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,1,83350,0.00105,0.011200508
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,2,83351,0.00141,0.013863408
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,3,83352,0.00086,0.00888747
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,4,83353,0.00064,0.01021417
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,6,83689,0.00083,0.007151845
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,7,83690,0.00096,0.010892039
+PHY.asec1309.PS129PF7.MRT25A_rev2.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,8,83691,0.00131,0.010916458
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,2,83772,0.00086,0.022117497
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,4,83774,0.00089,0.011460777
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,5,83775,0.00058,0.011284267
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,6,83776,0.00076,0.013596857
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,7,83777,0.00078,0.013868097
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,11,83780,0.00085,0.014701317
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,12,83781,0.00089,0.018863197
+PHY.asec1311.PF12.MRT31A.xls,Ecuador,Parada Larca,low,Andesiops,E,12.5,ns,15,83784,0.00092,0.011208617
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,1,83937,0.00093,0.019365856
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,2,83938,0.00048,0.017259466
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,3,83939,0.00082,0.021865956
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,4,83940,0.00086,0.024416906
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,5,83941,0.00039,0.012461226
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,7,83942,0.00065,0.016392616
+PHY.asec1315.AF2.MRT44A.xls,Ecuador,Antizana,high,Andesiops,E,15,ns,8,83943,0.00061,0.035778946
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,9,83705,0.0013,-0.001180332
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,10,83706,0.00244,0.023948352
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,11,83707,0.00133,0.019608788
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,12,83708,0.00099,0.015806621
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,13,83709,0.0016,0.024156868
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,14,83710,0.00101,0.014615689
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,15,83711,0.00203,0.028188803
+PHY.asec1309.PS129.MRT26A.xls,Ecuador,La Prostituta,low,Andesiops,E,15,ns,16,83712,0.00074,0.015326736
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,1,83698,0.00057,0.011687892
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,2,83699,0.00044,0.012901036
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,3,83700,0.00044,0.009636133
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,4,83701,0.00061,0.007146779
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,5,83702,0.00075,0.009798467
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,6,83703,0.00083,0.007276336
+PHY.asec1309.PS129.PF7.MRT26A.xls,Ecuador,Parada Larca,low,Andesiops,E,15,ns,7,83704,0.00035,0.00781033
+PHY.asec1303.PF7.MRT12A.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,1,83016,0.0003,0.00227246
+PHY.asec1303.PF7.MRT12A.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,2,83017,0.00064,0.011321643
+PHY.asec1303.PF7.MRT12A.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,7,83021,0.00146,0.018230223
+PHY.asec1303.PF7.MRT12A.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,8,83022,0.0004,0.001825454
+PHY.asec1303.PF7.MRT12B2.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,2,83024,0.00042,0.007017592
+PHY.asec1303.PF7.MRT12B2.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,7,83028,0.00067,0.009342082
+PHY.asec1303.PF7.MRT12B2.xls,Ecuador,Guango,mid,Andesiops,E,15,ns,8,83029,0.00046,0.005840478
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,1,83821,0.00252,0.028529654
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,2,83822,0.00246,0.036365727
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,3,83823,0.00167,0.033480558
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,4,83824,0.00193,0.040008879
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,5,83825,0.00128,0.033312838
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,6,83826,0.00236,0.040985762
+PHY.asec1313.PS129.MRT38A.xls,Ecuador,La Prostituta,high,Andesiops,E,17.5,ns,7,83827,0.00181,0.037689912
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,1,83950,0.00086,0.017406495
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,2,83951,0.0006,0.019533695
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,3,83952,0.00081,0.032294445
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,4,83953,0.00132,0.029125465
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,5,83954,0.00055,0.027242105
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,6,83955,0.00115,0.028142175
+PHY.asec1316.AF2.MRT46A_rev.xls,Ecuador,Antizana,high,Andesiops,E,17.5,ns,8,83956,0.00064,0.016085515
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,2,83743,0.00061,0.016954145
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,4,83745,0.00119,0.023908435
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,6,83747,0.00085,0.019892205
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,8,83749,0.00059,0.014100715
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,10,83751,0.0008,0.023075115
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,13,83754,0.00113,0.014761525
+PHY.asec1310.PF12.MRT29A.xls,Ecuador,Parada Larca,low,Andesiops,E,17.5,ns,14,83755,0.00062,0.015365635
+PHY.asec1304.PF7.MRT16A.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,4,83153,0.00126,0.027841606
+PHY.asec1304.PF7.MRT16A.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,8,83156,0.0006,0.015851722
+PHY.asec1304.PF7.MRT16B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,2,83157,0.00064,0.012775261
+PHY.asec1304.PF7.MRT16B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,3,83158,0.00054,0.015072654
+PHY.asec1304.PF7.MRT16B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,6,83161,0.00069,0.020275159
+PHY.asec1304.PF7.MRT16B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,7,83162,0.0006,0.008100281
+PHY.asec1304.PF7.MRT16B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,8,83163,0.00107,0.024244804
+PHY.asec1304.PF7.MRT17B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,2,83170,0.00085,0.040191011
+PHY.asec1304.PF7.MRT17B.xls,Ecuador,Guango,mid,Andesiops,E,17.5,ns,6,83174,0.0007,0.030405932
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,1,83814,0.00203,0.02596849
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,2,83815,0.00241,0.03940402
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,3,83816,0.00117,0.02446071
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,4,83817,0.00128,0.02791325
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,6,83818,0.00121,0.02275205
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,7,83819,0.00153,0.02518136
+PHY.asec1313.PS129.MRT37A.xls,Ecuador,La Prostituta,high,Andesiops,E,20,ns,8,83820,0.00234,0.02896197
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,1,83957,0.00128,0.02945424
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,2,83958,0.00094,0.03470678
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,3,83959,0.00098,0.02270457
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,4,83960,0.00068,0.0192722
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,5,83961,0.00093,0.02598155
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,7,83962,0.00107,0.02055331
+PHY.asec1316.AF2.MRT47A.xls,Ecuador,Antizana,high,Andesiops,E,20,ns,8,83963,0.00094,0.03352921
+PHY.asec1306.PF12.MRT20A.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,1,83278,0.00129,0.012835556
+PHY.asec1306.PF12.MRT20A.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,2,83279,0.00094,0.006689648
+PHY.asec1306.PF12.MRT20A.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,3,83280,0.00053,-0.000752184
+PHY.asec1308.PF7.MRT13B_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,3,83120,0.00034,0.00679247
+PHY.asec1308.PF7.MRT13B_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,5,83121,0.00022,0.001455893
+PHY.asec1308.PF7.MRT13B_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,20,ns,8,83124,0.00067,0.015169711
+PHY.asec1304.PF7.MRT13A2.xls,Ecuador,Guango,mid,Andesiops,E,20,ns,2,83112,0.0005,0.002396784
+PHY.asec1304.PF7.MRT13A2.xls,Ecuador,Guango,mid,Andesiops,E,20,ns,5,83115,0.00052,0.006545657
+PHY.asec1304.PF7.MRT13A2.xls,Ecuador,Guango,mid,Andesiops,E,20,ns,7,83116,0.00024,0.001584359
+PHY.asec1304.PF7.MRT13A2.xls,Ecuador,Guango,mid,Andesiops,E,20,ns,8,83117,0.00049,0.002388934
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,1,83807,0.00148,0.031924932
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,3,83808,0.00147,0.028272322
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,4,83809,0.00127,0.021174572
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,5,83810,0.00227,0.027267272
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,6,83811,0.00118,0.029867362
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,7,83812,0.00088,0.023870912
+PHY.asec1313.PS129.MRT36A.xls,Ecuador,La Prostituta,high,Andesiops,E,22.5,s,8,83813,0.0017,0.034542532
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,2,83964,0.00085,0.034956862
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,3,83965,0.00078,0.029274542
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,4,83966,0.00059,0.025604102
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,5,83967,0.00142,0.040625322
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,6,83968,0.00051,0.043756242
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,7,83969,0.0007,0.023936272
+PHY.asec1316.AF2.MRT48A.xls,Ecuador,Antizana,high,Andesiops,E,22.5,s,8,83970,0.00102,0.033060132
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,1,83292,0.00075,0.009647211
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,5,83295,0.00059,0.021510629
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,6,83296,0.00075,0.006610712
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,7,83297,0.0006,0.022418771
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,8,83298,0.00095,0.009821876
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,9,,0.00058,0.018341823
+PHY.asec1306.PF12.MRT21A.xls,Ecuador,Parada Larca,low,Andesiops,E,22.5,s,14,83303,0.00046,0.011046276
+PHY.asec1304.PF7.MRT17A.xls,Ecuador,Guango,mid,Andesiops,E,22.5,s,2,83164,0.0004,0.020064509
+PHY.asec1304.PF7.MRT17A.xls,Ecuador,Guango,mid,Andesiops,E,22.5,s,3,83165,0.00056,0.016722861
+PHY.asec1304.PF7.MRT17A.xls,Ecuador,Guango,mid,Andesiops,E,22.5,s,4,83166,0.00038,0.018577426
+PHY.asec1304.PF7.MRT17A.xls,Ecuador,Guango,mid,Andesiops,E,22.5,s,5,83167,0.00029,0.018680899
+PHY.asec1304.PF7.MRT17A.xls,Ecuador,Guango,mid,Andesiops,E,22.5,s,6,83168,0.00034,0.013496096
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,1,83944,0.00028,0.046134342
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,3,83945,0.00029,0.029149122
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,4,83946,0.00052,0.031668692
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,5,83947,0.00039,0.030194372
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,6,83948,0.00036,0.017896462
+PHY.asec1315.AF2.MRT45A.xls,Ecuador,Antizana,high,Andesiops,E,25,s,7,83949,0.00044,0.024857692
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,4,83309,0.00043,0.005564102
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,5,83310,0.0004,0.014438012
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,8,83313,0.00055,0.023325482
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,9,83314,0.00059,0.019113102
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,10,83315,0.00055,0.020447472
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,11,83316,0.00059,0.017138962
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,13,83318,0.00047,0.013424532
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,14,83319,0.00068,0.013430842
+PHY.asec13206.PF12.MRT22A_rev.xls,Ecuador,Parada Larca,low,Andesiops,E,25,s,15,83320,0.00023,0.005069312
+PHY.asec1303.PF7.MRT14A.xls,Ecuador,Guango,mid,Andesiops,E,25,s,7,83130,0.00038,0.007640057
+PHY.asec1303.PF7.MRT14A.xls,Ecuador,Guango,mid,Andesiops,E,25,s,8,83131,0.0001,-0.005022577
+PHY.asec1303.PF7.MRT14B.xls,Ecuador,Guango,mid,Andesiops,E,25,s,1,83132,0.00049,0.024463284
+PHY.asec1303.PF7.MRT14B.xls,Ecuador,Guango,mid,Andesiops,E,25,s,2,83133,0.00032,0.009588222
+PHY.asec1303.PF7.MRT14B.xls,Ecuador,Guango,mid,Andesiops,E,25,s,3,83134,0.0002,-6.76E-05
+PHY.asec1303.PF7.MRT14B.xls,Ecuador,Guango,mid,Andesiops,E,25,s,4,83135,0.00016,0.001457091
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,1,4976,0.00061,0.001166979
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,2,4977,0.00054,0.002016797
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,3,4978,0.00037,0.005839643
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,4,4979,0.00023,0.006447109
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,5,4980,0.00058,0.010306609
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,6,4981,0.00028,0.008509089
+MRT10COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,5,ns,7,4982,0.00058,0.009932879
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,1,4983,0.00028,0.000617456
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,3,4984,0.00043,0.000439518
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,4,4985,0.00035,0.004579883
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,5,4986,0.00052,0.00301045
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,6,4987,0.00045,0.005432733
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,7,4988,0.0006,0.004053846
+MRT11COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,7.5,ns,8,4989,0.00027,-0.001796479
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,2,4990,0.00062,0.002412949
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,3,4991,0.00035,0.004181648
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,4,4992,0.00027,0.003506943
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,5,4993,0.00042,0.001498716
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,6,4994,0.00038,0.003007754
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,7,4995,0.00025,-0.003103964
+MRT12COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,10,ns,8,4996,0.00047,0.002165688
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,11,5004,0.00021,0.00056673
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,12,5005,0.00029,0.003939789
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,14,5006,0.00025,0.002763692
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,15,5007,0.00057,0.005437459
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,16,5008,0.00036,0.00298409
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,17,5009,0.0005,0.000849114
+MRT13COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,12.5,ns,18,5010,0.00027,0.004196099
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,11,5011,0.0002,0.000331208
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,12,5012,0.00012,0.000142763
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,13,5013,0.0002,0.005655342
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,14,5014,0.00015,0.00214753
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,16,5015,0.00014,0.001008947
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,17,5016,0.00027,0.005893132
+MRT14COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,15,ns,18,5017,0.00019,0.002492269
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,1,5018,0.00009,0.004208131
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,4,5020,0.00033,0.005499791
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,5,5021,0.00012,0.008302451
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,6,5022,0.00025,0.003969507
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,7,5023,0.0003,0.005788591
+MRT15COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,17.5,ns,8,,0.00044,0.007207441
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,1,5039,0.00035,0.001853285
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,2,5040,0.00047,0.000778245
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,3,5041,0.00022,-0.000736625
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,4,5042,0.00029,0.004785835
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,5,5043,0.00055,-0.000847685
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,6,5044,0.00035,0.002580385
+MRT16COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,20,ns,7,5045,0.00018,0.008608555
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,9,5060,0.00049,0.001109566
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,10,5061,0.00029,0.004749826
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,11,5062,0.00038,0.002061706
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,12,5063,0.00029,0.014225656
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,13,5064,0.0001,0.002454376
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,14,5065,0.00024,0.002802296
+MRT17COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,22.5,s,15,5066,0.00032,-0.000548234
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,1,5077,0.00026,0.002510002
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,2,5078,0.00021,-0.002364918
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,3,5079,0.00022,-0.006771835
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,4,5080,0.00023,-0.004682018
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,5,5081,0.00025,-0.001628848
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,6,5082,0.00029,0.000866302
+MRT18COP2790,Colorado,COP2798,mid,Baetis bicaudatus,E,25,s,7,5083,0.00015,-0.001429968
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,1,5100,0.00025,0.003686789
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,2,5101,0.00032,0.000610235
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,3,5102,0.00026,0.002011475
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,4,5103,0.00034,0.000976607
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,5,5104,0.00093,0.005393018
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,7,5105,0.00011,-0.000407695
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,8,5106,0.00033,0.000264646
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,9,5107,0.0002,0.001112119
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,10,5108,0.00066,0.00678506
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,11,5109,0.00027,0.004628231
+MRT19COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,7.5,ns,12,5110,0.00028,0.003562332
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,1,62139,0.00043,-0.001657625
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,2,62140,0.001,0.002824977
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,3,62141,0.00045,0.000548552
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,4,62142,0.00045,-0.002204567
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,6,62143,0.00061,0.002076569
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,7,62144,0.00102,0.005258429
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,8,62145,0.00054,0.002783442
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,9,,0.00064,0.012911059
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,10,,0.00067,0.007261059
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,11,,0.00063,0.008234529
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,12,,0.00065,0.002929056
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,13,,0.00068,0.011022359
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,14,,0.00069,0.001402176
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,15,,0.00064,0.008011929
+MRT1COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,12.5,ns,16,,0.00066,0.007010519
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,1,5111,0.00025,0.005094448
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,2,5112,0.00025,0.001406745
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,4,5113,0.00026,0.000300395
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,5,5114,0.00034,0.000866772
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,6,5115,0.00012,0.003188268
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,7,5116,0.00035,0.000733894
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,8,5117,0.00021,0.003378745
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,9,5118,0.00037,0.000780635
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,10,5119,0.00023,-0.000455321
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,11,5120,0.00043,0.008543508
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,12,5121,0.00028,-0.002063531
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,13,5122,0.00051,0.006076288
+MRT20COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,10,ns,14,5123,0.00017,-0.000154893
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,1,5124,0.00039,0.004707019
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,2,5125,0.00018,0.003038492
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,3,5126,0.00023,0.000513823
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,4,5127,0.00036,0.000785565
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,5,5128,0.00016,0.003318059
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,7,5129,0.00037,0.008733139
+MRT21COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,12.5,ns,8,5130,0.00027,0.003860449
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,10,62162,0.00099,0.003300279
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,11,62163,0.00028,0.00132906
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,12,62164,0.00063,0.002762599
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,13,62165,0.00053,-0.001737663
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,14,62166,0.00026,-0.001346915
+MRT2COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,7.5,ns,15,62167,0.00041,0.000685749
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,2,5276,0.00025,0.010419642
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,3,5277,0.00053,0.006457372
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,4,5278,0.00074,0.011426042
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,5,5279,0.00031,0.002920388
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,6,5280,0.00063,0.014218772
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,7,5281,0.00054,0.003850162
+MRT33COP2212,Colorado,COP2212,low,Baetis tricaudatus,E,15,ns,8,5282,0.00026,0.005061282
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,1,5283,0.00034,0.007731411
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,2,5284,0.0003,0.006553881
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,3,5285,0.00027,0.016732851
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,5,5286,0.00012,0.003297485
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,6,5287,0.00024,0.005977211
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,7,5288,0.00023,0.006489631
+MRT34COP2212AA,Colorado,COP2212,low,Baetis tricaudatus,E,17.5,ns,8,5289,0.0006,0.014545741
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,1,5290,0.00026,0.002327425
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,2,5291,0.00037,0.008778225
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,3,5292,0.00046,0.013936395
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,4,5293,0.00037,0.010213755
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,5,5294,0.00038,0.006285425
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,6,5295,0.00052,0.006951845
+MRT35COP3166COP2212AA_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,20,ns,7,5296,0.00037,0.011857275
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,9,5297,0.0002,0.007185195
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,10,5298,0.00022,0.003011075
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,12,5300,0.00018,0.004624435
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,13,5301,0.00026,0.003134495
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,14,5302,0.00032,0.004253265
+MRT35COP3166COP2212AA_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,20,ns,15,5303,0.00034,0.007651305
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,1,5304,0.00042,0.018315746
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,2,5305,0.00036,0.006092316
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,3,5306,0.00049,0.011192266
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,4,5307,0.00058,0.017362946
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,5,5308,0.00033,0.010685046
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,6,5309,0.0004,0.007344766
+MRT36COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,22.5,s,7,5310,0.00038,0.015565206
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,9,5311,0.00029,0.026007646
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,10,5312,0.00024,0.002460236
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,11,5313,0.00027,0.003855676
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,12,5314,0.00023,0.008424186
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,13,5315,0.00068,0.011559086
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,14,5316,0.00024,0.007821306
+MRT36COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,22.5,s,15,5317,0.00037,0.005138176
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,1,5318,0.0002,0.009011012
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,2,5319,0.00036,0.008496682
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,3,5320,0.00025,0.008647012
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,4,5321,0.0002,0.009578192
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,5,5322,0.00037,0.012320902
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,6,5323,0.00041,0.018381682
+MRT37COP3166COP2212_eastforkonly,Colorado,COP3166,high,Baetis bicaudatus,E,25,s,7,5324,0.00032,0.023697632
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,9,5325,0.00021,0.008207812
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,10,5326,0.00021,0.018967132
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,11,5327,0.00029,0.015248212
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,12,5328,0.0002,0.006985012
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,13,5329,0.00024,0.001619872
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,14,5330,0.00032,0.004139892
+MRT37COP3166COP2212_sevenmileonly,Colorado,COP2212,low,Baetis tricaudatus,E,25,s,15,5331,0.00051,0.019761102
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,1,5332,0.00024,0.005173564
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,2,5333,0.00019,0.00093499
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,3,5334,0.00026,0.006243774
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,4,5335,0.00025,0.001838958
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,5,5336,0.00028,0.002744668
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,7,5337,0.00032,0.004718652
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,8,5338,0.00034,0.00487199
+MRT38COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,5,ns,9,5339,0.00049,0.00397078
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,1,5347,0.0002,0.003042864
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,2,5348,0.00015,0.000400496
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,3,5349,0.00047,0.00787724
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,4,5350,0.00041,-0.000268118
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,5,5351,0.00029,0.003087522
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,6,5352,0.00037,0.00746311
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,7,5353,0.00024,0.003525284
+MRT39COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,7.5,ns,8,5354,0.00056,0.003589159
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,2,5359,0.00039,0.006910198
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,3,5360,0.00065,0.003404186
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,4,5361,0.00056,0.003514698
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,5,5362,0.00047,0.009265468
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,6,5363,0.00038,0.002395348
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,7,5364,0.00028,0.005447618
+MRT40COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,10,ns,8,5365,0.00044,0.003707131
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,1,5386,0.00081,0.00858925
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,2,5387,0.00091,0.00725127
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,4,5388,0.001,0.01414283
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,5,5389,0.00029,0.003970068
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,6,5390,0.00057,0.00770019
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,7,5391,0.00034,0.005148663
+MRT41COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,7.5,ns,8,5392,0.00086,0.00823685
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,1,5393,0.00102,0.021086758
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,2,5394,0.00044,0.009261178
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,3,,0.00044,0.011582708
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,4,5396,0.00067,0.014962048
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,5,5397,0.00056,0.014092198
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,6,5398,0.00021,0.008525358
+MRT42COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,10,ns,8,,0.00044,0.010692988
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,1,5400,0.00061,0.011879689
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,3,5395,0.00055,0.015880219
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,4,5402,0.00027,0.001664436
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,5,5403,0.00077,0.018483419
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,6,5404,0.00048,0.015256379
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,7,5405,0.00045,0.010977029
+MRT43COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,12.5,ns,8,5406,0.00036,0.007651619
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,1,5454,0.00061,0.015028139
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,2,5455,0.00052,0.010747069
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,3,5456,0.00021,0.011395489
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,4,5457,0.00029,0.011264899
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,5,5458,0.00035,0.008280899
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,7,5459,0.00035,0.010176759
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,8,5460,0.00033,0.013201169
+MRT46COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,12.5,ns,9,5461,0.00033,0.003396189
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,1,5469,0.00031,0.013083922
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,2,5470,0.00016,0.013557002
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,3,5471,0.0006,0.011469502
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,4,5472,0.00046,0.012278362
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,5,5473,0.00046,0.011204382
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,6,5474,0.00041,0.012346112
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,7,5475,0.00034,0.010309972
+MRT47COP3166AA,Colorado,COP3166,high,Baetis bicaudatus,E,15,ns,8,5476,0.00038,0.013157422
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,1,5484,0.00035,0.012477561
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,2,5485,0.00044,0.030559731
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,3,5486,0.00049,0.018064291
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,4,5487,0.00025,0.010041401
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,5,5488,0.00055,0.021053011
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,6,5489,0.00052,0.020394311
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,7,5490,0.0005,0.015394841
+MRT48COP3166,Colorado,COP3166,high,Baetis bicaudatus,E,17.5,ns,8,5491,0.00054,0.017628521
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,1,5499,0.0009,0.012203812
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,2,5500,0.00115,0.016224612
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,3,5501,0.00037,0.003909912
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,4,5502,0.00047,0.008974552
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,5,5503,0.00052,0.013877802
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,7,5504,0.00016,-0.00057839
+MRT49COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,15,ns,8,5505,0.00029,0.006522262
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,9,62073,0.00029,0.001708035
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,10,62074,0.00029,0.002875965
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,11,62075,0.00047,0.001078265
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,12,62076,0.00038,0.002928845
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,13,62077,0.00035,-0.001605055
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,14,62078,0.0003,0.002943765
+MRT4COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,20,ns,15,62079,0.0003,-0.003392449
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,1,5506,0.00014,0.012202081
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,3,5507,0.00046,0.018617471
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,4,5508,0.00016,0.008718581
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,5,5509,0.00011,0.007549381
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,6,5510,0.00034,0.016393461
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,7,5511,0.00021,0.008429541
+MRT50COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,17.5,ns,8,5512,0.00016,0.012849471
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,2,5513,0.00048,0.010201655
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,3,5514,0.00045,0.003337745
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,4,5515,0.00046,0.012148335
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,5,5516,0.00018,0.006446055
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,6,5517,0.00048,0.009984595
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,7,5518,0.00041,0.010259045
+MRT51COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,20,ns,8,5519,0.00031,0.008894565
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,1,5520,0.00068,0.019226246
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,2,5521,0.00028,0.009410226
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,3,5522,0.00037,0.008361026
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,4,5523,0.00025,0.012660116
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,5,5542,0.00021,0.006734296
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,6,5543,0.00018,0.009518766
+MRT52COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,22.5,s,7,5544,0.00032,0.010705696
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,2,5545,0.00034,0.012664492
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,3,5546,0.00049,0.015392072
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,4,5547,0.00056,0.019997382
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,5,5548,0.0005,0.013467002
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,6,5549,0.00026,0.018785372
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,7,5550,0.00034,0.017045272
+MRT53COP2590,Colorado,COP2590,mid,Baetis tricaudatus,E,25,s,8,5551,0.00027,0.016256982
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,2,62081,0.00036,-0.000801324
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,3,62082,0.00041,0.001262426
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,4,62083,0.0004,-0.001160114
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,5,62084,0.00025,0.003986326
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,6,62085,0.00021,-0.002308574
+MRT5COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,22.5,s,7,62086,0.0002,-0.002763604
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,1,62092,0.00086,0.007264348
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,2,62093,0.00014,0.000328305
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,3,83109,0.00026,0.000210891
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,5,83110,0.00028,-0.006218101
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,6,83222,0.00054,-0.004695082
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,7,83223,0.00023,-0.002761684
+MRT6COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,10,ns,8,83224,0.00021,-0.00227981
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,1,83226,0.00025,0.005896672
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,2,83228,0.00024,0.015076052
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,3,83229,0.00021,0.003525132
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,4,83230,0.00017,-0.002253706
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,5,83231,0.00021,0.010208932
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,6,83232,0.00015,-0.007027998
+MRT7COP1992a,Colorado,COP2000,low,Baetis tricaudatus,E,15,ns,7,83233,0.00015,0.001770161
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,1,83265,0.00035,0.000584462
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,2,83240,0.00032,0.000253916
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,3,83241,0.00037,0.003695258
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,5,83242,0.00027,-0.002036734
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,6,83243,0.00027,0.000843129
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,7,83244,0.00026,-0.001354663
+MRT8COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,17.5,ns,8,83245,0.00031,6.72E-06
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,1,83258,0.00016,0.000617132
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,2,83259,0.00036,-0.006237563
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,3,83260,0.00015,-0.001847878
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,5,83261,0.00027,-0.008840431
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,6,83262,0.00014,-0.003712228
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,7,83263,0.0002,-0.009954698
+MRT9COP1992,Colorado,COP2000,low,Baetis tricaudatus,E,25,s,8,83264,0.00043,-0.002492318
